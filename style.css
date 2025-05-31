@@ -107,7 +107,7 @@ nav .navigation ul li a:hover
 	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("img/background.png");
 	width: 75%;
 	height: 75vh;
-	background-size: cover;
+	background-size: auto-fit;
 	background-position: center center;
 	display: flex;
 	flex-direction: column;
