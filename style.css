@@ -178,8 +178,8 @@ nav .navigation ul li a:hover
 /*------------- Features section styling start -------------*/
 #features
 {
-	padding: 5vw 8vw 0 8vw;
-	text-align: Align-left;
+	padding: 8vw 8vw 8vw 8vw;
+	text-align: center;
 }
 
 #features .fea-base
