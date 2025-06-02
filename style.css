@@ -181,7 +181,12 @@ nav .navigation ul li a:hover
 	padding: 8vw 8vw 8vw 8vw;
 	text-align: center;
 }
-
+#features .fea-base
+{       display: grid;
+        grid-template-columns: repaeat (auto-fit, minimax (320px, 1fr));
+        grid-gap: 1rem;
+        margin-top: 50px;
+}
 {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -227,8 +232,7 @@ nav .navigation ul li a:hover
     .section-title {
       text-align: center;
       padding: 8vw 8vw 8vw 8vw;
-      margin-bottom: 30px;
-      color: #2c3e50;
+
     }
 
     .modalities {
