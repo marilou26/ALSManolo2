@@ -179,7 +179,7 @@ nav .navigation ul li a:hover
 #features
 {
 	padding: 5vw 8vw 0 8vw;
-	text-align: center;
+	text-align: Align-left;
 }
 
 #features .fea-base
@@ -214,7 +214,7 @@ nav .navigation ul li a:hover
 
 #features .fea-box p
 {
-	font-size: 1rem;
+	font-size: 0.95em;
 	font-weight: 400;
 	color: rgb(70, 70, 87);
 }
