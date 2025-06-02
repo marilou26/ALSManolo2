@@ -217,60 +217,6 @@ nav .navigation ul li a:hover
 	font-weight: 400;
 	color: rgb(70, 70, 87);
 }
- body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      margin: 0;
-      padding: 20px;
-    }
-
-    .section-title {
-      text-align: center;
-      padding: 8vw 8vw 8vw 8vw;
-
-    }
-
-    .modalities {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: center;
-    }
-
-    .modality {
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-      padding: 20px;
-      max-width: 280px;
-      text-align: center;
-      transition: transform 0.3s ease;
-    }
-
-    .modality:hover {
-      transform: scale(1.05);
-    }
-
-    .modality h3 {
-      color: #2980b9;
-      margin-bottom: 10px;
-    }
-
-    .modality p {
-      color: #555;
-      font-size: 0.95em;
-      line-height: 1.5;
-    }
-
-    @media (max-width: 768px) {
-      .modalities {
-        flex-direction: column;
-        align-items: center;
-      }
-    }
-  </style>
-</head>
-<body>
 
 /*------------- Features section styling end -------------*/
 
