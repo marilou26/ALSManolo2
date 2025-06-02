@@ -227,7 +227,7 @@ nav .navigation ul li a:hover
 
     .section-title {
       text-align: center;
-      font-size: 2em;
+      padding: 8vw 8vw 8vw 8vw;
       margin-bottom: 30px;
       color: #2c3e50;
     }
