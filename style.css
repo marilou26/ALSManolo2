@@ -182,7 +182,6 @@ nav .navigation ul li a:hover
 	text-align: center;
 }
 
-#features .fea-base
 {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
